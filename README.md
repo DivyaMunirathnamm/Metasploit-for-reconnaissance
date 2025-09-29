@@ -95,4 +95,5 @@ set the PASS_FILE parameter to the wordlist path available inside /usr/share/wor
 
 <img width="992" height="699" alt="image" src="https://github.com/user-attachments/assets/8ee15900-fd3b-4129-9f69-ad6af5de77c4" />
 
-# RESULT: The Metasploit framework for reconnaissance is examined successfully
+# RESULT: 
+The Metasploit framework for reconnaissance is examined successfully
